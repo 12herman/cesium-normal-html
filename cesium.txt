@@ -1,0 +1,5 @@
+i) CesiumJS doesn’t directly support .uasset, .fbx, or .obj (Unreal's typical formats). 
+ii) Blender used to convert the ".fbx file" to ".glb file".
+iii) Create a new account on CesiumJs "https://ion.cesium.com/". They given a default secure token for you.
+iv) Upload the ".glb file" on Cesiumjs asset section "https://ion.cesium.com/assets/" they given the "fromAssectId"
+v) If you want to display the 3D asset on you cesiumJs site you can use the Id.
